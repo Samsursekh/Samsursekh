@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJS ,Redux**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://samsursekh.github.io/Samsur__sekh/)
+- 👨‍💻 All of my projects are available at my   [  Portfolio](https://samsursekh.github.io/Samsur__sekh/)
 
 - 💬 Ask me about **MEARN, React**
 

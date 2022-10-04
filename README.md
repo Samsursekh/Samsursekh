@@ -26,7 +26,10 @@
 <a href="https://codepen.io/samsursekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@samsursekh" height="30" width="40" /></a>
 <a href="https://twitter.com/@samsursekh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samsursekh1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samsur-sekh-b6961a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samsur sekh" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/user19672804](https://stackoverflow.com/users/19672804/samsursekh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user19672804" height="30" width="40" /></a>
+ 
+  
+  <a href="https://stackoverflow.com/users/19672804/samsursekh?tab=profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="samsursekh" height="100" width="120" /></a>
+  
 <a href="https://codesandbox.com/samsursekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samsursekh" height="30" width="40" /></a>
 </p>
 

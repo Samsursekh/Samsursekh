@@ -18,7 +18,7 @@
 - 💬 Ask me about **MEARN, React**
 
 - 📫 How to reach me **samsur.sekh.masai@gmail.com**
-- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing/)
+- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1iR7-6_CbcbnG0lgKfXCSL483P3O-jrQy/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
